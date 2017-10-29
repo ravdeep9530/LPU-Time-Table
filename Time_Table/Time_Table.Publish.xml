@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\d\o" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Pics/submit.png" publishTime="03/18/2016 23:55:40" />
+    <file relUrl="Teacher_Precedence.aspx" publishTime="03/18/2016 21:42:44" />
+    <file relUrl="bin/Time_Table.pdb" publishTime="03/27/2016 16:15:08" />
+    <file relUrl="bin/Time_Table.dll" publishTime="03/27/2016 16:15:08" />
+    <file relUrl="Web.config" publishTime="03/27/2016 16:15:11" />
+    <file relUrl="Pics/ums_bg.jpg" publishTime="03/18/2016 22:54:20" />
+    <file relUrl="Service1.svc" publishTime="03/20/2016 22:36:08" />
+    <file relUrl="Time_table_manager.aspx" publishTime="03/20/2016 22:56:55" />
+    <file relUrl="Enter_UID.aspx" publishTime="03/19/2016 00:02:32" />
+  </publishProfile>
+</publishData>

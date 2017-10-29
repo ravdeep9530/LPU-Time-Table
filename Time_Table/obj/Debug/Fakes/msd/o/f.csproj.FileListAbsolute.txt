@@ -1,0 +1,14 @@
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\ClosedXML.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\itextsharp.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\itextsharp.pdfa.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\itextsharp.xmlworker.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\itextsharp.xtra.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\ClosedXML.xml
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\b\itextsharp.xml
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+D:\VS\Visual Studio 2010\Projects\Time_Table\Time_Table\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
